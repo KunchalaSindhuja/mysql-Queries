@@ -1,5 +1,6 @@
 
-### 📊 Project: Sales Analyst (SQL Project)
+### 📊 Project: Sales Analyst using mysql
+${\color{blue}Sales\ Analysis\ using\ mysql}$
 
 1. **Objective**
    Analyze sales data to derive actionable business insights using SQL.
